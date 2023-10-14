@@ -1,4 +1,4 @@
 # Hi there, i am Argi 👋
-- 🔭 My name is Raden Isnawan Argi Aryasatya
-- 📫 I'm an Informatics Engineering student at Universitas Teknologi Digital Indonesia
-- 🌱 I’m currently learning Data Science, Machine Learning, and Artificial Intelligence
+- 🔭 Nama saya Raden Isnawan Argi Aryasatya
+- 📫 Saya lulusan prodi Informatika dari Universitas Teknologi Digital Indonesia
+- 🌱 Saya tertarik dengan bidang Data Analytics dan Data Science
